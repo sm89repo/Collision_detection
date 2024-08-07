@@ -1,0 +1,7 @@
+requirements:
+
+#opencv
+#numpy
+#mysql-db-connector
+#datetime module
+#ultralytics
